@@ -81,10 +81,6 @@ Saxena, A., Goebel, K., Simon, D., & Eklund, N. (2008). Damage propagation model
 
 If you use this code or these results, please cite the repository using the details in `CITATION.cff`. A citation for the paper will be added once it is published.
 
-## Note on AI assistance
-
-An AI assistant (Claude, Anthropic) helped design the experiment, write the code and draft the paper. The author checked the code and results and is responsible for them.
-
 ## Licence
 
 The code is released under the MIT licence (see `LICENSE`). The result files and figures may be reused with credit.
