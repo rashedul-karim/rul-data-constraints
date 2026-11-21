@@ -1,0 +1,16 @@
+# outputs of a rerun (the published results are in results/ and figures/)
+runs/
+runs_sensitivity/
+merged/
+out/
+/results_tests.csv
+# NASA data files are downloaded separately
+CMAPSSData/
+*.txt
+!results/tables.txt
+!requirements.txt
+# Python and system files
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
