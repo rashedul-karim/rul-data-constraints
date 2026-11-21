@@ -6,7 +6,9 @@ authors:
     given-names: "Rashed Ul"
 type: software
 license: MIT
-date-released: "2026-11-14"
+version: "v1.0.0"
+doi: "10.5281/zenodo.24413289"
+date-released: "2026-11-21"
 repository-code: "https://github.com/rashedul-karim/rul-data-constraints"
 keywords:
   - remaining useful life

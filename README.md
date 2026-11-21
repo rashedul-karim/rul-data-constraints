@@ -1,5 +1,7 @@
 # The cost of data constraints in turbofan RUL prediction
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24413289.svg)](https://doi.org/10.5281/zenodo.24413289)
+
 Code and results for the paper *The cost of data constraints in turbofan remaining useful life prediction: a factorial study of fleet size, sensor coverage and recording interval* (Rashed Ul Karim, manuscript in preparation, 2026).
 
 The study asks how much prediction accuracy an operator loses when it has few engines that ran to failure, few sensors, or sensor readings logged only every few flights. It varies all three on the four NASA C-MAPSS turbofan data sets and fits three models that need no GPU and no tuning: ridge regression, a random forest and LightGBM. A mean-life reference that uses no sensors is included for comparison. In total 15,552 models were fitted.
@@ -88,7 +90,7 @@ Saxena, A., Goebel, K., Simon, D., & Eklund, N. (2008). Damage propagation model
 
 ## How to cite
 
-If you use this code or these results, please cite the repository using the details in `CITATION.cff`. A citation for the paper will be added once it is published.
+If you use this code or these results, please cite the archived version: Karim, R. U. (2026). *The cost of data constraints in turbofan remaining useful life prediction: code and results* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24413289. The same details are in `CITATION.cff`. A citation for the paper will be added once it is published.
 
 
 ## Licence
